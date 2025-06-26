@@ -1,6 +1,6 @@
 # HebiBot
 
-HebiBot là một bot Discord toàn diện, được phát triển với mục đích cung cấp các tính năng quản lý cộng đồng, trò chơi, và hệ thống giao dịch tự động. Bot hỗ trợ nhiều chức năng như mua bán vật phẩm, tham gia trò chơi, và quản lý người dùng thông qua các lệnh Slash (ví dụ: `/shop`, `/use`, `/daily`).
+HebiKoBot là một bot Discord toàn diện, được phát triển với mục đích cung cấp các tính năng quản lý cộng đồng, trò chơi, và hệ thống giao dịch tự động. Bot hỗ trợ nhiều chức năng như mua bán vật phẩm, tham gia trò chơi, và quản lý người dùng thông qua các lệnh Slash (ví dụ: `/shop`, `/use`, `/daily`).
 
 ## Mục tiêu
 
