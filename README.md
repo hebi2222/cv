@@ -1,98 +1,70 @@
-# HebiBot
+# CV - Hebi
 
-HebiKoBot là một bot Discord toàn diện, được phát triển với mục đích cung cấp các tính năng quản lý cộng đồng, trò chơi, và hệ thống giao dịch tự động. Bot hỗ trợ nhiều chức năng như mua bán vật phẩm, tham gia trò chơi, và quản lý người dùng thông qua các lệnh Slash (ví dụ: `/shop`, `/use`, `/daily`).
+## 🧑‍💻 Thông Tin Cá Nhân
 
-## Mục tiêu
+- **Tên:** Hebi
+- **Email:** hebi.vu220924@gmail.com
+- **GitHub:** (https://github.com/hebi2222)
+---
 
-HebiBot được thiết kế để hỗ trợ các cộng đồng Discord trong việc quản lý hoạt động, tương tác với người dùng và cung cấp các trò chơi giải trí. Bot được phát triển bởi Hebi, người chuyên về phát triển bot Discord và các hệ thống tự động hóa.
+## 🎯 Mục Tiêu Nghề Nghiệp
 
-## Các tính năng chính
+Lập trình viên và phát triển bot Discord với kinh nghiệm trong việc xây dựng các hệ thống tự động hóa và trò chơi trực tuyến. Mục tiêu của tôi là cung cấp các giải pháp sáng tạo, tối ưu và mang lại trải nghiệm người dùng tuyệt vời trong môi trường cộng đồng trực tuyến.
 
-- **Quản lý cộng đồng:** Bot cung cấp các lệnh quản lý như `/kick`, `/ban`, `/mute`, `/warn`, giúp người quản trị dễ dàng điều hành server.
-- **Trò chơi câu cá:** Người dùng có thể tham gia trò chơi câu cá, nuôi cá và giao dịch các loại cá khác nhau.
-- **Hệ thống shop:** Người dùng có thể mua vật phẩm trong shop với các vật phẩm như cần câu, mồi, và các buff hỗ trợ.
-- **Nhiệm vụ:** Hệ thống nhiệm vụ giúp người dùng hoàn thành các thử thách và nhận thưởng.
-- **Chức năng điểm danh:** Người dùng có thể tham gia điểm danh hàng ngày và nhận thưởng.
+---
 
-## Cài đặt
+## 🛠️ Kỹ Năng
 
-### Yêu cầu
+- **Ngôn ngữ lập trình:** Python, JavaScript (Discord.js), SQL
+- **Frameworks/Thư viện:** Discord.py, Node.js, Express, MongoDB
+- **API & Webhooks:** Tạo và tích hợp API, sử dụng webhooks trong các nền tảng chat như Discord
+- **Hệ quản trị cơ sở dữ liệu:** MongoDB, MySQL
+- **Lập trình bot Discord:** Phát triển các lệnh Slash, quản lý người dùng, trò chơi, hệ thống giao dịch
+- **Công cụ phát triển:** Git, Docker, VS Code
 
-- Python 3.8 hoặc mới hơn
-- Thư viện `discord.py` (hoặc `discord.js` nếu sử dụng JavaScript)
-- MongoDB (hoặc cơ sở dữ liệu yêu thích của bạn)
-- Các phụ thuộc khác đã được liệt kê trong `requirements.txt`
+---
 
-### Cài đặt dự án
+## 💼 Kinh Nghiệm Làm Việc
 
-1. **Clone dự án:**
+### Lập trình viên tự do  
+**Thời gian:** Tháng 1/2024 – Hiện tại  
+**Mô tả công việc:**  
+- Phát triển và bảo trì bot Discord cho cộng đồng và doanh nghiệp.
+- Xây dựng các tính năng như quản lý người dùng, trò chơi, hệ thống điểm thưởng.
+- Cải tiến và tối ưu hóa mã nguồn của các dự án hiện tại để nâng cao hiệu suất.
 
-    ```bash
-    git clone https://github.com/hebi/hebibot.git
-    ```
+---
 
-2. **Cài đặt các phụ thuộc:**
+## 💡 Dự Án Nổi Bật
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+### HebikoBot v4 chạy py
+Bot Discord với các tính năng quản lý cộng đồng, trò chơi, hệ thống giao dịch và điểm danh.  
 
-3. **Cấu hình bot:**
-    - Tạo một bot trên [Discord Developer Portal](https://discord.com/developers/applications).
-    - Lấy token bot và đặt vào trong file `config.json`:
+### HebiBot v2 chạy js
+Bot Discord custom lại từ hebikobot 
+---
 
-    ```json
-    {
-      "token": "YOUR_BOT_TOKEN"
-    }
-    ```
+## 🎓 Học Vấn
 
-4. **Chạy bot:**
+**Kỹ thuật Phần mềm**  
+cao đẳng nghề fpt Jeking, Việt Nam | 2022 - 2024
 
-    ```bash
-    python bot.py
-    ```
+---
 
-## Lệnh hỗ trợ
+## 📜 Chứng Chỉ
 
-### Quản lý người dùng
+- **Chứng chỉ Lập trình Python** - Udemy, 2019
+- **Chứng chỉ Lập trình JavaScript** - FreeCodeCamp, 2020
 
-- `/kick [user]`: Kicking người dùng khỏi server.
-- `/ban [user]`: Cấm người dùng tham gia server.
-- `/unban [user]`: Mở khóa người dùng bị cấm.
-- `/warn [user]`: Cảnh báo người dùng.
+---
 
-### Trò chơi
+## 🎮 Sở Thích và Sở Trường
 
-- `/fish`: Bắt đầu chơi trò chơi câu cá.
-- `/inventory`: Kiểm tra kho cá của bạn.
-- `/sell [fish]`: Bán cá cho hệ thống.
+- Đam mê phát triển phần mềm, các hệ thống tự động hóa và trò chơi trực tuyến.
+- Tham gia cộng đồng mã nguồn mở và chia sẻ kiến thức lập trình với cộng đồng.
 
-### Shop
+---
 
-- `/shop`: Xem danh sách vật phẩm trong shop.
-- `/buy [item]`: Mua vật phẩm từ shop.
+## 🤝 Liên Hệ
 
-### Nhiệm vụ
-
-- `/daily`: Nhận phần thưởng hàng ngày.
-
-## Các tệp chính
-
-- **bot.py**: Tệp chính chạy bot.
-- **games/fishing.py**: Chứa các logic và dữ liệu trò chơi câu cá.
-- **commands.py**: Các lệnh bot được định nghĩa tại đây.
-- **config.json**: Cấu hình token và các thông số cần thiết cho bot.
-
-## Đóng góp
-
-Chúng tôi luôn chào đón các đóng góp từ cộng đồng. Nếu bạn muốn đóng góp, hãy fork dự án và tạo pull request với các thay đổi của bạn.
-
-## Liên hệ
-
-Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với tôi qua email: [hebi.vu220924@gmail.com].
-
-## Giấy phép
-
-Dự án này được cấp phép theo Giấy phép MIT. Vui lòng tham khảo tệp LICENSE để biết chi tiết.
-
+- **Email:** [hebi.vu220924@gmail.com]
